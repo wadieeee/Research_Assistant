@@ -1,0 +1,31 @@
+# Core LangChain dependencies
+langchain
+langchain-core
+langchain-community
+
+# Vector store
+chromadb
+
+# Embeddings & LLMs
+sentence-transformers
+transformers
+torch
+accelerate
+huggingface-hub
+
+
+# PDF and Table Parsing
+pypdf
+PyMuPDF         # also known as "fitz"
+pdf2image
+tabula-py       # requires Java installed
+pandas
+
+# UI
+streamlit
+streamlit-chat  # optional, for chat-like interface
+
+# Utilities
+python-dotenv
+tqdm
+numpy
